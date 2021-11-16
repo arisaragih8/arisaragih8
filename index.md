@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Selamat Datang di Ari Shop
 
 You can use the [editor on GitHub](https://github.com/arisaragih8/arisaragih8/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
